@@ -6,6 +6,12 @@
   "engines": {
     "vscode": "^1.82.0"
   },
+  "publisher": "vyeve",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vyeve/vscode-themes/tree/master/midcentury-light-theme"
+  },
+  "license":"MIT",
   "categories": [
     "Themes"
   ],

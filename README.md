@@ -15,5 +15,5 @@ code --install-extension midcentury-light-theme-0.0.1.vsix
 ## uninstall scheme
 
 ```shell
-code --uninstall-extension undefined_publisher.midcentury-light-theme
+code --uninstall-extension vyeve.midcentury-light-theme
 ```
