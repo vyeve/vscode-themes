@@ -1,0 +1,21 @@
+{
+  "name": "midcentury-light-theme",
+  "displayName": "Midcentury Light",
+  "description": "Midcentury Light theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midcentury Light theme",
+        "uiTheme": "vs",
+        "path": "./themes/Midcentury Light theme-color-theme.json"
+      }
+    ]
+  }
+}
